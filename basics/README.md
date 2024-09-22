@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script creates a symbolic link to /bin/ls named '__ls__'
+# This script copies all html files in the current directory to /tmp/
