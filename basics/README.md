@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script copies all html files in the current directory to /tmp/
+# This script moves all files starting with an uppercase letter to /tmp/
