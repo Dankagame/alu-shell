@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script prints the type of the file named 'iamafile'
+# This script creates a symbolic link to /bin/ls named '__ls__'
