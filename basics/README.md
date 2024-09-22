@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script creates a directory named 'my_first_directory' in the /tmp/ directory
+# This script moves the file 'betty' to /tmp/my_first_directory
