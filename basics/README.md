@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script displays directory contents with numeric user/group IDs and hidden files
+# This script creates a directory named 'my_first_directory' in the /tmp/ directory
