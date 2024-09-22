@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script lists the files in the current directory
+# This script prints the type of the file named 'iamafile'
