@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script displays the current directory contents, including hidden files, in long format
+# This script displays directory contents with numeric user/group IDs and hidden files
