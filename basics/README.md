@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script changes the working directory to the previous one
+# This script lists the files in the current directory
