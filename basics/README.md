@@ -1,2 +1,2 @@
-#!/bin/bash : act as a shell
-cd ~ : changes the working directory to the user’s home directory.
+#!/bin/bash
+# This script displays the current directory contents in a long format
