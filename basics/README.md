@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script deletes all files in the current directory that end with the character '~'
+# This script creates the directories: 'welcome/', 'welcome/to/', and 'welcome/to/school'
